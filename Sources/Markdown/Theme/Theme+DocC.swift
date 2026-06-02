@@ -170,7 +170,10 @@ extension Color {
     light: Color(rgba: 0x6969_69ff), dark: Color(rgba: 0x9a9a_9eff)
   )
   fileprivate static let codeBackground = Color(
-    light: Color(rgba: 0xf5f5_f7ff), dark: Color(rgba: 0x3333_36ff)
+    // Light: a secondary gray that's clearly a step darker than the page
+    // background (the old 0xf5f5f7 was so near-white it vanished against it).
+    // Dark: slightly lighter than the page, as before.
+    light: Color(rgba: 0xe8e8_edff), dark: Color(rgba: 0x3333_36ff)
   )
   fileprivate static let grid = Color(
     light: Color(rgba: 0xd2d2_d7ff), dark: Color(rgba: 0x4242_45ff)
