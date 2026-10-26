@@ -13,6 +13,7 @@ powers the PDF export in [md2pdf](https://github.com/haplollc/md2pdf).
 [![Platforms](https://img.shields.io/badge/platforms-macOS%20·%20iOS%20·%20tvOS%20·%20watchOS-black?style=flat-square&logo=apple)](https://developer.apple.com)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-blue?style=flat-square&logo=swift)](https://developer.apple.com/swiftui/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=flat-square)](https://buymeacoffee.com/jcbuilds)
 
 </div>
 
